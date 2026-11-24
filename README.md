@@ -1,3 +1,22 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+# NO LONGER MAINTAINED
+
+> [!IMPORTANT]
+> Kaia Safe (`safe.kaia.io`) was retired on **August 31, 2026**. Kaia Mainnet and Kairos Testnet are now supported natively on [Safe Wallet](https://app.safe.global). This repository was Kaia's fork of the CSV Airdrop Safe App and is archived.
+>
+> Your existing Safes are unaffected. Addresses, owners, thresholds, assets and on-chain history stay the same. Connect an owner wallet at [app.safe.global](https://app.safe.global) and your Safe will appear there.
+>
+> - Migration guide: [Migrate to Safe Global](https://docs.kaia.io/build/wallets/safe-wallet/migrate-to-safe-global/)
+> - Safe Wallet on Kaia: [Kaia Docs](https://docs.kaia.io/build/wallets/safe-wallet/overview/)
+> - CSV Airdrop on Safe Wallet: [Kaia Docs](https://docs.kaia.io/build/wallets/safe-wallet/csv-airdrop/)
+>
+> Thank you to everyone who contributed to this repository.
+
+---
+
+*The content below is kept for reference only. This code is not maintained and should not be deployed.*
+
 # Gnosis Safe - CSV Airdrop; A Safe App for Easy Transfers
 
 Send arbitrarily many distinct tokens, to arbitrarily many distinct accounts with various different values from a CSV file in a single Safe transaction!
